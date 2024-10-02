@@ -9,7 +9,7 @@ Este projeto consiste em uma landing page criada para treinar habilidades em HTM
 
 ## Demonstração
 
-![Screenshot da Landing Page](../Landing%20Page%20DIO/images/screenshot.png)
+![Screenshot da Landing Page](../images/screenshot.png)
 
 ## Estrutura do Projeto
 
@@ -34,5 +34,4 @@ Este projeto consiste em uma landing page criada para treinar habilidades em HTM
     Este projeto é licenciado sob a MIT License.
 
 
-Todo o projeto foi feito no figma pela professora do curso Michele Ambrosio e pode ser conferido ![clicando aqui] (https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1)
-
+Todo o projeto foi feito no figma pela professora do curso Michele Ambrosio e pode ser conferido no link: https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1
