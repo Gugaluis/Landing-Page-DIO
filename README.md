@@ -9,7 +9,7 @@ Este projeto consiste em uma landing page criada para treinar habilidades em HTM
 
 ## Demonstração
 
-![Screenshot da Landing Page](../images/screenshot.png)
+![Screenshot da Landing Page](images/screenshot.png)
 
 ## Estrutura do Projeto
 
